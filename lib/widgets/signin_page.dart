@@ -49,7 +49,7 @@ class _LoginPageState extends State<SigninPage> {
                         alignment: Alignment.center,
                         height: 100,
                         width: 100,
-                        child: Image.asset('assets/chef.jpg'),
+                        child: Image.asset('assets/companylogo.png'),
                       ),
                     ),
                   ),
